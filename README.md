@@ -39,3 +39,5 @@ Se planea ofrecer soporte para los siguientes formatos de paquetes, buscando cub
 | **.xbps** | Void Linux. |
 | **.apk** | Alpine Linux. |
 | **.appimage** | Formato universal, compatible con la mayoría de distribuciones GNU/Linux. |
+
+Este proyecto NO MERECE REGALIAS, TAMPOCO NADA FUERA DE LUGAR, Para su respectivo apoyo vayan a [https://www.holyrics.com.br](https://www.holyrics.com.br) 
