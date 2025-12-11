@@ -1,43 +1,43 @@
-# 💻 Holyrics para GNU/Linux
+# 💻 Holyrics for GNU/Linux
 
-Este proyecto tiene como objetivo **facilitar el uso e instalación de Holyrics** en diversas distribuciones GNU/Linux.
+This project aims to **facilitate the use and installation of Holyrics** on various GNU/Linux distributions.
 
-## 🌟 ¿Qué es Holyrics?
+## 🌟 What is Holyrics?
 
-Holyrics es un software de presentación multimedia ampliamente utilizado en iglesias, eventos y conferencias. Permite proyectar **letras de canciones, versículos bíblicos, avisos y videos** de manera sencilla y eficiente.
-
----
-
-## 📢 Información Importante
-
-### 🤝 Compromiso del Desarrollador del Empaquetado
-
-Como desarrollador de estos paquetes para Linux, **respeto profundamente al creador de Holyrics** y me comprometo firmemente a **NO MODIFICAR NI TOCAR SU CÓDIGO FUENTE**. Esta decisión se toma en estricto acatamiento a la petición de su creador, entendiendo que **NO es ético ni legal alterar código sin la debida autorización**.
-
-* **Integridad del Software:** Este proyecto **NO MODIFICA, NO CAMBIA, NO REESCRIBE** el código fuente original de Holyrics.
-* **Función Principal:** Solo se encarga de **empaquetar** el software original para su correcta ejecución en entornos GNU/Linux.
-* **Legalidad y Términos:** Toda la política de privacidad y los términos de servicio de Holyrics están contenidos en el archivo `LICENSE` provisto con el paquete.
-
-### 🔗 Enlaces Oficiales de Holyrics
-| Descripción | Enlace |
-| :--- | :--- |
-| **Página Oficial** | [https://www.holyrics.com.br](https://www.holyrics.com.br) |
-| **Términos de Servicio** | [https://www.holyrics.com.br/terms](https://www.holyrics.com.br/terms) |
-| **Política de Privacidad** | [https://www.holyrics.com.br/policy](https://www.holyrics.com.br/policy) |
+Holyrics is multimedia presentation software widely used in churches, events, and conferences. It allows for projecting **song lyrics, Bible verses, announcements, and videos** in a simple and efficient manner.
 
 ---
 
-## 🎯 Paquetes Soportados (Planificados)
+## 📢 Important Information
 
-Se planea ofrecer soporte para los siguientes formatos de paquetes, buscando cubrir la mayor cantidad posible de distribuciones:
+### 🤝 Commitment of the Packaging Developer
 
-| Formato de Paquete | Distribuciones Compatibles (Ejemplos) |
+As the developer of these packages for Linux, I **deeply respect the creator of Holyrics** and am firmly committed to **NOT MODIFYING OR TOUCHING ITS SOURCE CODE**. This decision is made in strict compliance with the creator's request, understanding that it is **neither ethical nor legal to alter code without proper authorization**.
+
+* **Software Integrity:** This project **DOES NOT MODIFY, DOES NOT CHANGE, DOES NOT REWRITE** Holyrics' original source code.
+* **Main Function:** It is only responsible for **packaging** the original software for correct execution in GNU/Linux environments.
+* **Legality and Terms:** All privacy policies and terms of service for Holyrics are contained in the `LICENSE` file provided with the package.
+
+### 🔗 Official Holyrics Links
+| Description | Link |
 | :--- | :--- |
-| **.deb** | Debian, Ubuntu, Devuan y todas sus derivadas. |
-| **.rpm** | Fedora, OpenMandriva, Mageia, ALT Linux, RHEL, Rocky Linux, openSUSE y SUSE. |
-| **Pacman** | Arch Linux y derivadas. Se explorará la inclusión en Chaotic AUR, si es técnicamente factible. |
+| **Official Website** | [https://www.holyrics.com.br](https://www.holyrics.com.br) |
+| **Terms of Service** | [https://www.holyrics.com.br/terms](https://www.holyrics.com.br/terms) |
+| **Privacy Policy** | [https://www.holyrics.com.br/policy](https://www.holyrics.com.br/policy) |
+
+---
+
+## 🎯 Supported Packages (Planned)
+
+Support is planned for the following package formats, seeking to cover as many distributions as possible:
+
+| Package Format | Compatible Distributions (Examples) |
+| :--- | :--- |
+| **.deb** | Debian, Ubuntu, Devuan, and all their derivatives. |
+| **.rpm** | Fedora, OpenMandriva, Mageia, ALT Linux, RHEL, Rocky Linux, openSUSE, and SUSE. |
+| **Pacman** | Arch Linux and derivatives. Inclusion in Chaotic AUR will be explored, if technically feasible. |
 | **.xbps** | Void Linux. |
 | **.apk** | Alpine Linux. |
-| **.appimage** | Formato universal, compatible con la mayoría de distribuciones GNU/Linux. |
+| **.appimage** | Universal format, compatible with most GNU/Linux distributions. |
 
-Este proyecto NO MERECE REGALIAS, TAMPOCO NADA FUERA DE LUGAR, Para su respectivo apoyo vayan a [https://www.holyrics.com.br](https://www.holyrics.com.br) 
+This project DOES NOT DESERVE ROYALTIES, NOR ANYTHING OUT OF PLACE. For your respective support, please go to [https://www.holyrics.com.br](https://www.holyrics.com.br)
